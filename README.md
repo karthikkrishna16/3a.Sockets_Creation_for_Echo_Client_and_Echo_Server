@@ -9,8 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-### NAME : R ANIRUDH
-### REG NO : 212223230016
+### NAME : TH KARTHIK KRISHNA
+### REG NO : 212223240067
 
 ```
 
